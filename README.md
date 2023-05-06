@@ -1,4 +1,4 @@
-# TUBİTAK Kripto Günleri Circom
+# TÜBİTAK Kripto Günleri Circom
 
 Here we have a basic circuit writing template. In this repository you can write your circom circuits
 then compile the necessary files.
