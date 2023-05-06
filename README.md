@@ -6,6 +6,7 @@ then compile the necessary files.
 install dependencies
 
 ```
+cd circuits
 yarn install
 ```
 

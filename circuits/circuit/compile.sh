@@ -87,4 +87,4 @@ cp build/${CIRCUIT}.zkey ./
 
 echo "----- Copy the verifier file inside the contracts folder -----"
 # Copy the verifier file inside the contracts folder
-cp build/${CIRCUIT^}Verifier.sol ../contracts/
+cp build/${CIRCUIT^}Verifier.sol ../../contracts/
