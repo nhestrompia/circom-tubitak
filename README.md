@@ -13,7 +13,6 @@ yarn install
 To run the circuit compilation script for groth16 proving system you can use commands
 
 ```
-cd circuits
 cd circuit
 bash ./compile.sh
 ```

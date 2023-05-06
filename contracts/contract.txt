@@ -1,0 +1,1 @@
+Verifier contract created by the script based on the circuit is within that folder
