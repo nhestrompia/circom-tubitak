@@ -7,11 +7,8 @@ To run the circuit compilation script for groth16 proving system you can use com
 
 ```
 cd circuits
-
 cd circuit
-
 bash ./compile.sh
-
 ```
 
 Script original repository : https://github.com/vplasencia/circom-snarkjs-scripts
